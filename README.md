@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Garlapati-Nikhila
 - 👀 I’m interested in working with IT industry
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on working as a software engineer
+- 💞️ I’m looking for collaborating with the positions like software engineer, Graduate EngineerTrainee.
 - 📫 You can reach out me through my mail "nikhilagupthagarlapati99@gmail.com"
 
 <!---
